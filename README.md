@@ -1,2 +1,2 @@
-# ccomp2
+# CCOMP 2-2
 Steffano
