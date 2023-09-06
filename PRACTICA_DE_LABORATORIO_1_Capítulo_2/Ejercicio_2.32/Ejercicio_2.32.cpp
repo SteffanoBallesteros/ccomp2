@@ -8,7 +8,7 @@ int main() {
 	cout << "Digite su edad: ";
 	cin >> edad;
 
-	float max, min;
+	float max=0, min=0;
 
 	cout << "Usando la ecuacion comun." << endl;
 	float Maximun_heart_rate_1 = 220 - edad;
